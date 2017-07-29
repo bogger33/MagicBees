@@ -2,11 +2,11 @@
 Magic Bees is an addon for Forestry that adds several new bee species with a magical theme. Breeding them will help you brew potions, or give you extra ways to make resources for other magic-themed mods such as Thaumcraft and Ars Magica.
 
 ## Installation
-Magic Bees depends on Forestry, which is required. You may [download Forestry here](http://www.curse.com/mc-mods/minecraft/forestry).
+Magic Bees depends on Forestry, which is required. You may [download Forestry here](https://minecraft.curseforge.com/projects/forestry).
 
 Minecraft Forge is also needed to run Forestry. Magic Bees will usually work with whichever version of Forge Forestry requires.
 
-To install, simply download the mod from [CurseForge](http://minecraft.curseforge.com/mc-mods/65764-magic-bees) and place in the mods folder of your Minecraft instance.
+To install, simply download the mod from [CurseForge](https://minecraft.curseforge.com/projects/magic-bees) and place in the mods folder of your Minecraft instance.
 
 ## Compatability
 Adding the following mods will result in additional features being unlocked:
